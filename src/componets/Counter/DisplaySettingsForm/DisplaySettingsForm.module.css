@@ -1,0 +1,28 @@
+.container {
+    margin: 15px;
+    display: block;
+    height: 50%;
+    background: midnightblue;
+    border-radius: 15px;
+    border: 2px solid darkslateblue;
+}
+
+.container input{
+    width: 100px;
+}
+
+.item {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item span {
+    color: red;
+    margin-right: 10px;
+}
+
+.error {
+    background: brown;
+    border: 1px solid red;
+}
